@@ -33,7 +33,7 @@ minigit branch <name>     # create branch
 
 Clone the repository:
 
-git clone https://github.com/ridhimagarg.rg/NanoGit.git  
+git clone https://github.com/ridhimagarg-rg/NanoGit.git  
 cd miniGit  
 
 Build:
